@@ -19,7 +19,7 @@ the dynamically allocated arrays are freed from memory using `free`.
 This program is a basic demonstration of how SIMD can significantly speed up computations by processing multiple data points 
 simultaneously.
 
-[!image](./_assets/simd_example.png)
+![image](./_assets/simd_example.png)
 
 ### References
 - [arm-neon](https://developer.arm.com/architectures/instruction-sets/intrinsics/)
